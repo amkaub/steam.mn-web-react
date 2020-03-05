@@ -1,0 +1,103 @@
+.mr-card {
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.np {
+    padding: 0px !important;
+}
+.t_title_top {
+    position: absolute;
+    top: 0;
+    height: 20px;
+    width: 100%;
+    color: #fff;
+    padding: 5px;
+    font-size: 12px;
+}
+.tbg {
+    height: 130px;
+    width: 100%;
+}
+.br20 {
+    border-radius: 20px !important;
+}
+.t_title_bot {
+    position: absolute;
+    bottom: 0px;
+    height: 20px;
+    width: 100%;
+    background: rgba(220,216,216,0.5);
+    padding: 0px;
+    color: #fff;
+    font-size: 12px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.t_title_bot > span {
+    padding: 0px 15px;
+}
+.dota2{
+	color: #fa6464;
+}
+.csgo{
+	color: #f99d1c;
+}
+.lol{
+	color:#d4ce11;
+}
+.DOTA2{
+    color: #fa6464;
+}
+.CSGO{
+    color: #f99d1c;
+}
+.LOL{
+    color:#d4ce11;
+}
+.bg-dota2{
+	background:#fa6464;
+	color:#fff !important;
+}
+.bg-lol{
+	background:#d4ce11;
+	color:#fff !important;
+}
+.bg-csgo{
+	background:#64a0fa;
+	color:#fff !important;
+}
+.bg-CSGO{
+    background:#64a0fa;
+    color:#fff !important;
+}
+.bg-n65cvfbkiu{
+	background:#e89600;
+	color:#fff !important;
+}
+.bg-Basketball{
+    background:#e89600;
+    color:#fff !important;
+}
+.bg-football{
+	background:#117d28;
+	color:#fff !important;
+}
+.bg-Football{
+    background:#117d28;
+    color:#fff !important;
+}
+.border-dota2{
+	border:#fa6464 solid 1px;
+}
+.border-csgo{
+	border:#64a0fa solid 1px;
+}
+.border-CSGO{
+    border:#64a0fa solid 1px;
+}
+.border-n65cvfbkiu{
+	border:#e89600 solid 1px;
+}
+.border-Basketball{
+    border:#e89600 solid 1px;
+}
